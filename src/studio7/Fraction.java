@@ -47,7 +47,6 @@ public class Fraction {
 		Fraction fraction3 = new Fraction(15,27);
 		System.out.println(fraction3.simplify());
 		
-		System.out.println(fraction1);
 	}
 
 }
